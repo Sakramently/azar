@@ -1,3 +1,4 @@
 Console.WriteLine('9914');
 Console.ReadLine();
-580599
+
+Хорош дрыхнуть!
